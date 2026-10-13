@@ -1,6 +1,8 @@
 # Funkjamin PRIME
 Mark Melkumyan | CIS 5660
 
+![Vid](funkjamin_prime.mp4)
+
 ## Art Piece
 [Factory of Forms](https://www.marklikes.art/comics) by Mark Melkumyan (me!)
 
